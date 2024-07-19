@@ -1,4 +1,4 @@
-# Data-Knowledge
+# Knowledge-Generation
 
 Data knowledge is an ACES kernel component that delivers comprehensive insights about ML-based workload characterization and resource allocation and utilization
 
