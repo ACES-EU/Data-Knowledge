@@ -14,4 +14,4 @@ To deploy the two applications to a Kubernetes cluster and run it, the command t
 
 To create more replicas for use case 2, the used command is as follows:
 
- - kubectl -n aces-ns scale deployment aces-w3-alibaba-ml-upm --replicas 10 
+ - kubectl -n (the-namespace)  scale deployment aces-w3-alibaba-ml-upm --replicas 10 
